@@ -1,3 +1,5 @@
+This is only for recording purposes and is mainly used for daily games on the modified Switch. Because I am lazy,so I have compiled and recorded the original address of the plugin for all my Switch enthusiasts.
+
 方方面面插件的原地址：
 
 虚拟系统固件：https://github.com/THZoria/NX_Firmware
@@ -69,3 +71,5 @@ MOD管理器：https://github.com/nadrino/SimpleModManager
 游戏时长记录：https://github.com/zdm65477730/NX-Activity-Log
 
 电池电量校准：https://github.com/CTCaer/battery_desync_fix_nx
+
+I hope all Switch players enjoy their work. They are really very good,although some of them have stopped developing Switch,they still stick to their original intentions and helping others to make better ones. On behalf of all Switch players, I would like to express my gratitude to them!
