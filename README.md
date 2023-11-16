@@ -38,7 +38,7 @@ B站插件：https://github.com/xfangfang/wiliwili
 
 金手指管理器：https://github.com/tomvita/EdiZon-SE
 
-金手指更新：https://github.com/HamletDuFromage/aio-switch-updater/releases
+金手指更新：https://github.com/HamletDuFromage/aio-switch-updater
 
 后台应用： https://github.com/WerWolv/ovl-sysmodules
 
@@ -48,7 +48,7 @@ B站插件：https://github.com/xfangfang/wiliwili
 
 第三方耳机插件：https://github.com/plutooo/nx-btred
 
-DNS屏蔽检测：https://github.com/meganukebmp/Switch_90DNS_tester
+在线商店：https://github.com/fortheusers/hb-appstore
 
 MOD下载器：https://github.com/PoloNX/SimpleModDownloader
 
@@ -62,14 +62,16 @@ MOD管理器：https://github.com/nadrino/SimpleModManager
 
 串流插件：https://github.com/exelix11/SysDVR
 
+电池电量校准：https://github.com/CTCaer/battery_desync_fix_nx
+
 存档管理： https://github.com/J-D-K/JKSV
 
 账号关联：https://github.com/rdmrocha/linkalho
 
 洗白白插件：https://github.com/StarDustCFW/Haku33
 
-游戏时长记录：https://github.com/zdm65477730/NX-Activity-Log
+DNS屏蔽检测：https://github.com/meganukebmp/Switch_90DNS_tester
 
-电池电量校准：https://github.com/CTCaer/battery_desync_fix_nx
+游戏时长记录：https://github.com/zdm65477730/NX-Activity-Log
 
 I hope all Switch players enjoy their work. They are really very good,although some of them have stopped developing Switch,they still stick to their original intentions and helping others to make better ones. On behalf of all Switch players, I would like to express my gratitude to them!
