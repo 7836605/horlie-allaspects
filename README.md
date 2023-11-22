@@ -8,9 +8,13 @@ This is only for recording purposes and is mainly used for daily games on the mo
 
 引导菜单：https://github.com/CTCaer/hekate
 
+神之手：https://github.com/ppkantorski/Ultrahand-Overlay
+
 特斯拉：https://github.com/WerWolv/Tesla-Menu
 
 DBI： https://github.com/rashevskyv/dbi
+
+无线传输：https://github.com/cathery/sys-ftpd
 
 安全超频：https://github.com/hanai3Bi/Switch-OC-Suite
 
@@ -24,7 +28,7 @@ DBI： https://github.com/rashevskyv/dbi
 
 后台底座工具：https://github.com/masagrator/ReverseNX-Tool
 
-底座转换：https://github.com/masagrator/SaltyNX/releases
+底座转换：https://github.com/masagrator/SaltyNX
 
 阿米宝插件：https://github.com/XorTroll/emuiibo
 
@@ -32,7 +36,11 @@ DBI： https://github.com/rashevskyv/dbi
 
 B站插件：https://github.com/xfangfang/wiliwili
 
+视频播放：https://github.com/Cpasjuste/pplay
+
 联机插件：https://github.com/spacemeowx2/ldn_mitm
+
+金手指修改：https://github.com/tomvita/Breeze-Beta
 
 金手指：https://github.com/WerWolv/EdiZon
 
@@ -62,11 +70,19 @@ MOD管理器：https://github.com/nadrino/SimpleModManager
 
 串流插件：https://github.com/exelix11/SysDVR
 
+串流支持更多游戏：https://github.com/exelix11/dvr-patches
+
 电池电量校准：https://github.com/CTCaer/battery_desync_fix_nx
 
-存档管理： https://github.com/J-D-K/JKSV
+存档管理：https://github.com/J-D-K/JKSV
+
+文件管理：https://github.com/joel16/NX-Shell
 
 账号关联：https://github.com/rdmrocha/linkalho
+
+屏幕改色：https://github.com/averne/Fizeau
+
+黑商店：https://tinfoil.media
 
 洗白白插件：https://github.com/StarDustCFW/Haku33
 
