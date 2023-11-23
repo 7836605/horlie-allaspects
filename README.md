@@ -36,7 +36,7 @@ DBI： https://github.com/rashevskyv/dbi
 
 B站插件：https://github.com/xfangfang/wiliwili
 
-视频播放：https://github.com/Cpasjuste/pplay
+视频播放：https://github.com/proconsule/nxmp
 
 联机插件：https://github.com/spacemeowx2/ldn_mitm
 
